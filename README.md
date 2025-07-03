@@ -3,8 +3,7 @@
 > **TriggerServerEvent Grabber for FiveM Server Dumps**
 
 
-![Showcase]((https://i.imgur.com/9fcwRES.gif)
-
+![Showcase](https://i.imgur.com/9fcwRES.gif)
 
 
 
