@@ -2,6 +2,12 @@
 
 > **TriggerServerEvent Grabber for FiveM Server Dumps**
 
+
+![Showcase]((https://i.imgur.com/9fcwRES.gif)
+
+
+
+
 Dump-The-Dump is a Python tool that scans a FiveM server dump folder and automatically extracts all `TriggerServerEvent` calls used in the server’s Lua scripts. It can process an entire dump in just a few seconds, generating a list of discovered triggers useful for developers, reverse engineering, or building scripts for executors.
 
 ---
